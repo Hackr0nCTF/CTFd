@@ -69,27 +69,9 @@ flask_profiler.sql
 # Ruff
 .ruff_cache/
 
-# CTFd-specific
-CTFd/static/uploads
-CTFd/uploads
-.data/
-.ctfd_secret_key
 *.db
 *.log
 *.log.*
 
 # CTFd exports
 *.zip
-
-# non-default plugins
-CTFd/plugins/*
-!CTFd/plugins/challenges/
-!CTFd/plugins/dynamic_challenges/
-!CTFd/plugins/flags/
-!CTFd/plugins/*.py
-
-# non-default themes
-CTFd/themes/*
-!CTFd/themes/admin/
-!CTFd/themes/core/
-!CTFd/themes/core-deprecated/

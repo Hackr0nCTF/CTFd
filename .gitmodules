@@ -31,3 +31,15 @@
 [submodule "CTFd/themes/nullify-ctfd-theme"]
 	path = CTFd/themes/nullify-ctfd-theme
 	url = git@github.com:AaronVigal/nullify-ctfd-theme.git
+[submodule "CTFd/plugins/ctfd-chat-notifier"]
+	path = CTFd/plugins/ctfd-chat-notifier
+	url = git@github.com:Hackr0nCTF/ctfd-chat-notifier.git
+[submodule "CTFd/plugins/ctfd-custom-webhook"]
+	path = CTFd/plugins/ctfd-custom-webhook
+	url = git@github.com:Hackr0nCTF/ctfd-custom-webhook.git
+[submodule "CTFd/plugins/CTFd-Tickets"]
+	path = CTFd/plugins/CTFd-Tickets
+	url = git@github.com:Leclowndu93150/CTFd-Tickets.git
+[submodule "CTFd/plugins/CTFd_first_blood"]
+	path = CTFd/plugins/CTFd_first_blood
+	url = git@github.com:krzys-h/CTFd_first_blood.git

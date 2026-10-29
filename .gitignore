@@ -75,3 +75,4 @@ flask_profiler.sql
 
 # CTFd exports
 *.zip
+.data/**
